@@ -27,7 +27,7 @@
 ### DB 구조
 
 ### 실행방법
-- http://gksdn1216.cafe24.com/main.pj
+- http://gksdn1216.cafe24.com/main.pj ( 오류시 새로고침 )
 - 테스트 ID / PWD
   * 사용자  
     * cus1 / cus1  
