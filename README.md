@@ -1,4 +1,4 @@
-# SIB 
+# SIB
  
 ## 프로젝트 소개
 
@@ -43,6 +43,6 @@
 - Communication: Github, MicroSoft Teams
 - IDE : Eclipse
 - FTP Service : FileZilla, Putty
-- 개발 OS: WIndows
+- 개발 OS: Windows
 - 권장 브라우저 : Chrome
 
